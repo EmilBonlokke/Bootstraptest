@@ -1,0 +1,4 @@
+.idea
+.nodem_modules
+# Project exclude paths
+/node_modules/
